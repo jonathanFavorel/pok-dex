@@ -12,7 +12,7 @@
 
 <h2>Aperçu de l'application:</h2>
 
-<p><img src="https://cdn.dribbble.com/users/10376335/screenshots/20557553/media/414e9bc86729995d7e3b8093d94e153a.gif?resize=400x0" alt="project-screenshot"></p>
+<p><img src="https://cdn.dribbble.com/users/10376335/screenshots/20557553/media/414e9bc86729995d7e3b8093d94e153a.gif?resize=400x0" alt="project-screnshot"></p>
 
   
   
