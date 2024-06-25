@@ -12,7 +12,7 @@
 
 <h2>Aperçu de l'application:</h2>
 
-<img src="https://s3-alpha.figma.com/hub/file/2956195692/82160b4e-9c11-4d10-9af4-53a26da21791-cover.png" alt="project-screenshot" width="400" height="400/">
+<p><img src="https://s3-alpha.figma.com/hub/file/2956195692/82160b4e-9c11-4d10-9af4-53a26da21791-cover.png" alt="project-screenshot" width="400" height="400/"></p>
 
   
   
