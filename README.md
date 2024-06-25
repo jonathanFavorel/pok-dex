@@ -12,7 +12,7 @@
 
 <h2>Aperçu de l'application:</h2>
 
-<p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1202971127473077147%2Fpokedex-pokemon-app&psig=AOvVaw1sZCJSTuxLNQiJ8XymnSDT&ust=1719391432419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD_w66u9oYDFQAAAAAdAAAAABAE" alt="project-screenshot"></p>
+<p><img src="https://s3-alpha.figma.com/hub/file/2956195692/82160b4e-9c11-4d10-9af4-53a26da21791-cover.png" alt="project-screenshot"></p>
 
   
   
